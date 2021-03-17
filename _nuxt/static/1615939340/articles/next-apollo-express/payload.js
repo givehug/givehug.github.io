@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/articles/next-apollo-express", {data:[{}],fetch:{},mutations:void 0});
